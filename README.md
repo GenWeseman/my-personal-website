@@ -272,7 +272,14 @@
             <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>         
-  <footer style="background-color: #014e4c; color: #ffffff; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0;">
+  footer {
+    background-color: #014e4c;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    /* removed position: fixed; and bottom: 0; */
+}
     <p>© 2025 Gen Weseman | St. Louis, MO</p>
     <p>
         <a href="mailto:GenWeseman@gmail.com" style="color: #ffffff; text-decoration: underline;">Email</a> |
