@@ -129,10 +129,7 @@
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>
             
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 Genevieve Weseman</p>
-    </footer>
-</body>
-</html>
+   © 2025 Gen Weseman | St. Louis, MO  
+[Email](mailto:GenWeseman@gmail.com) | [LinkedIn](https://www.linkedin.com/in/genevieve-weseman-2868a980/) | [GitHub](https://github.com/GenWeseman)
+
+
