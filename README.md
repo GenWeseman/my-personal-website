@@ -162,7 +162,10 @@
     </p>
     <p>
         <strong>NACCHO Preparedness Summit</strong><br>
-        Peer-to-Peer Training to Support Medication Safety and Reduce Neonatal Abstinence Syndrome in Lincoln County, MO - March 2019
+        Medical Reserve Corps Movement on Medication Safety, Opioid Rapid Response Team Collaborative Project - March 2019<br>
+        <a href="NACCHO%20Preparedness%20Summit%20Presentation.pptx" target="_blank">
+            View NACCHO Summit Presentation (PPTX)
+        </a>
     </p>
     <p>
     <strong>Lincoln County Opioid Summit for Community Providers</strong><br>
