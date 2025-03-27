@@ -33,7 +33,7 @@
         text-transform: uppercase;
     }
     nav a:hover {
-        background-color: #d8c292;
+        background-color: #014e4c;
     }
     .container {
         padding: 20px;
@@ -49,7 +49,7 @@
         border-radius: 8px;
     }
     footer {
-        background-color: #d8c292;
+        background-color: #014e4c;
         color: #3e2723;
         text-align: center;
         padding: 10px;
