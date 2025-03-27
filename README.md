@@ -72,10 +72,14 @@
         <h1>Genevieve Weseman</h1>
     </header>
     <nav>
-        <a href="#about">About Me</a>
-        <a href="#portfolio">Portfolio</a>
-        <a href="#contact">Contact</a>
-    </nav>
+    <a href="#about">About Me</a>
+    <a href="#education">Education</a>
+    <a href="#skills">Skills</a>
+    <a href="#experience">Experience</a>
+    <a href="#presentations">Presentations</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+</nav>
     <div class="container">
         <section id="about" class="about">
             <h2>About Me</h2>
