@@ -284,21 +284,15 @@ h1 {
             <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>         
-  footer {
-    background-color: #014e4c;
-    color: #ffffff;
-    text-align: center;
-    padding: 10px;
-    width: 100%;
-    /* removed position: fixed; and bottom: 0; */
-}
-    <p>© 2025 Gen Weseman | St. Louis, MO</p>
+ <footer style="background-color: #014e4c; text-align: center; padding: 10px; width: 100%;">
+    <p style="color: #000000;">© 2025 Gen Weseman | St. Louis, MO</p>
     <p>
         <a href="mailto:GenWeseman@gmail.com" style="color: #000000; text-decoration: underline;">Email</a> |
         <a href="https://www.linkedin.com/in/genevieve-weseman-2868a980/" target="_blank" style="color: #000000; text-decoration: underline;">LinkedIn</a> |
         <a href="https://github.com/GenWeseman" target="_blank" style="color: #000000; text-decoration: underline;">GitHub</a>
     </p>
 </footer>
+
 
 
 
