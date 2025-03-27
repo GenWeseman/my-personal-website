@@ -294,9 +294,9 @@ h1 {
 }
     <p>© 2025 Gen Weseman | St. Louis, MO</p>
     <p>
-        <a href="mailto:GenWeseman@gmail.com" style="color: #ffffff; text-decoration: underline;">Email</a> |
-        <a href="https://www.linkedin.com/in/genevieve-weseman-2868a980/" target="_blank" style="color: #ffffff; text-decoration: underline;">LinkedIn</a> |
-        <a href="https://github.com/GenWeseman" target="_blank" style="color: #ffffff; text-decoration: underline;">GitHub</a>
+        <a href="mailto:GenWeseman@gmail.com" style="color: #000000; text-decoration: underline;">Email</a> |
+        <a href="https://www.linkedin.com/in/genevieve-weseman-2868a980/" target="_blank" style="color: #000000; text-decoration: underline;">LinkedIn</a> |
+        <a href="https://github.com/GenWeseman" target="_blank" style="color: #000000; text-decoration: underline;">GitHub</a>
     </p>
 </footer>
 
