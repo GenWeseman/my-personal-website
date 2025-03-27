@@ -69,7 +69,7 @@
 </head>
 <body>
     <header>
-        <h1>Genevieve Weseman</h1>
+        <h1>Gen Weseman</h1>
     </header>
     <nav>
     <a href="#about">About Me</a>
@@ -260,8 +260,9 @@
     <p>
         <strong>Movement on Medication Safety Toolkit</strong><br>
         March 2019<br>
-   <a href="MOMS%20Toolkit.pdf" target="_blank">View MOMS Toolkit (PDF)</a>
-        </a>
+  <a href="MOMS%20Toolkit.pdf" target="_blank">
+        View MOMS Toolkit (PDF)
+    </a>
     </p>
 </section>
 </p>
