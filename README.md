@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Genevieve Weseman</title>
+    <title>Gen Weseman</title>
     <style>
         body {
             font-family: 'Times New Roman', serif;
@@ -71,7 +71,7 @@
     <div class="container">
         <section id="about" class="about">
             <h2>About Me</h2>
-            <p>Genevieve Weseman is an epidemiologist with the St. Charles County Department of Public Health. She is passionate about educating individuals on emerging public health matters and advocates for alpha-gal syndrome awareness and surveillance in her free time. She earned her MPH in Epidemiology & Biosecurity at St Louis University in 2014. Before she arrived at the St. Charles County Department of Public Health, Ms. Weseman served as the public health emergency preparedness program coordinator for the Missouri Department of Health and Senior Services and as an emergency planner and surveillance specialist for the Lincoln County Health Department.</p>
+            <p>Gen Weseman is a data analyst with a decade of experience leveraging statistical methods and data visualization tools (R, Power BI, GIS, Excel) to extract actionable insights. Skilled in identifying trends and translating complex data into strategic recommendations for public health and policy initiatives. She is passionate about educating individuals on emerging public health matters and advocates for tick-borne disease awareness and policy in her free time. She earned her MPH in Epidemiology & Biosecurity at St Louis University in 2014. Before she arrived at the St. Charles County Department of Public Health, Ms. Weseman served as the public health emergency preparedness program coordinator for the Missouri Department of Health and Senior Services and as an emergency planner and surveillance specialist for the Lincoln County Health Department.</p>
         </section>
         <section id="portfolio" class="portfolio">
             <h2>Portfolio</h2>
@@ -80,9 +80,9 @@
         <section id="contact" class="contact">
             <h2>Contact</h2>
             <p>Feel free to reach out to me at:</p>
-            <p>Email: genevieve.weseman@example.com</p>
-            <p>Phone: (555) 123-4567</p>
-            <p>Address: 123 Main Street, St. Charles, MO 63301</p>
+            <p>Email: GenWeseman@gmail.com</p>
+            <p>Phone: (636) 866-1078</p>
+            
         </section>
     </div>
     <footer>
