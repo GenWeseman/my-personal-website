@@ -13,10 +13,15 @@
     }
    header {
     background-color: #014e4c;
-    color: #ffffff; /* bright white text */
+    color: #ffffff;
     padding: 20px;
     text-align: center;
     border-bottom: 4px solid #3e2723;
+}
+h1 {
+    font-family: 'Calibri', sans-serif;
+    color: #ffffff;
+    margin: 0;
 }
     nav {
         display: flex;
@@ -39,9 +44,16 @@
         padding: 20px;
     }
     h1, h2, h3 {
-        font-family: 'Calibri', sans-serif;
-        color: #014e4c;
-    }
+    font-family: 'Calibri', sans-serif;
+}
+
+h2, h3 {
+    color: #014e4c;
+}
+
+h1 {
+    color: #ffffff; /* white text in header */
+}
     .about, .portfolio, .contact, .presentations, .education, .experience, .skills {
         margin: 20px 0;
         padding: 20px;
@@ -69,8 +81,8 @@
 </head>
 <body>
     <header>
-        <h1>Gen Weseman</h1>
-    </header>
+    <h1>Gen Weseman</h1>
+</header>
     <nav>
     <a href="#about">About Me</a>
     <a href="#education">Education</a>
@@ -272,7 +284,14 @@
             <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>         
-  <footer style="background-color: #014e4c; color: #ffffff; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0;">
+  footer {
+    background-color: #014e4c;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    /* removed position: fixed; and bottom: 0; */
+}
     <p>© 2025 Gen Weseman | St. Louis, MO</p>
     <p>
         <a href="mailto:GenWeseman@gmail.com" style="color: #ffffff; text-decoration: underline;">Email</a> |
