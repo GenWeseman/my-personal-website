@@ -1,4 +1,4 @@
-# Gen Weseman Resume & Portfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
