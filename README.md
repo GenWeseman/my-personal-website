@@ -91,7 +91,14 @@
 
 
 <section id="portfolio" class="portfolio">
-    <h2>Portfolio</h2>    
+    <h2>Portfolio</h2>  
+   <p>
+    <strong>Alpha-Gal By The Numbers:</strong><br>
+    A Comparison of Lyme, AGS, and Other Tick-Borne Disease Cases from 2017–2021<br>
+    <a href="https://www.tbcunited.org/alpha-gal-by-the-numbers-a-comparison-of-lyme-ags-and-other-tick-borne-disease-cases-from-2017-2021/" target="_blank">
+        View article on TBC United
+    </a>
+</p>
     <p>
         <strong>Where Chronic Disease, Data, and Disparity Collide</strong><br>
         A Review of Chronic Disease in St. Charles County, MO — April 2022<br>
@@ -106,13 +113,19 @@
             https://storymaps.arcgis.com/stories/fa8f3dd7c8ab44fe8f1660b3ba84f2ef
         </a>
     </p>
+    <p>
+        <strong>Movement on Medication Safety Toolkit</strong><br>
+        March 2019<br>
+   <a href="MOMS%20Toolkit.pdf" target="_blank">View MOMS Toolkit (PDF)</a>
+        </a>
+    </p>
 </section>
 
 </p>
         </section>
         <section id="contact" class="contact">
             <h2>Contact</h2>
-            <p>Feel free to reach out to me at:</p>
+            <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>
             
