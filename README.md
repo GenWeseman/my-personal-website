@@ -72,8 +72,74 @@
     <div class="container">
         <section id="about" class="about">
             <h2>About Me</h2>
-            <p>Gen Weseman is a public health data analyst with a decade of experience leveraging statistical methods and data visualization tools (R, Power BI, GIS, Excel) to extract actionable insights. Skilled in identifying trends and translating complex data into strategic recommendations for public health and policy initiatives. She is passionate about educating individuals on emerging public health matters and advocates for tick-borne disease awareness and policy in her free time. She earned her MPH in Epidemiology & Biosecurity at St Louis University in 2014. Before she arrived at the St. Charles County Department of Public Health, Ms. Weseman served as the public health emergency preparedness program coordinator for the Missouri Department of Health and Senior Services and as an emergency planner and surveillance specialist for the Lincoln County Health Department</p>
-
+            <p>Gen Weseman is a public health data analyst with a decade of experience leveraging statistical methods and data visualization tools (R, Power BI, GIS, Excel) to extract actionable insights. Skilled in identifying trends and translating complex data into strategic recommendations for public health and policy initiatives. She is passionate about educating individuals on emerging public health matters and advocates for tick-borne disease awareness and policy in her free time. </p>
+            <section id="education" class="portfolio">
+    <h2>Education</h2>
+    <p>
+        <strong>Master of Public Health (MPH), Epidemiology/Biosecurity & Disaster Preparedness</strong><br>
+        St. Louis University, St. Louis, MO — May 2014
+    </p>
+    <p>
+        <strong>Bachelor of Arts (BA), Anthropology</strong><br>
+        University of Missouri, St. Louis — May 2011
+    </p>
+</section>
+<section id="skills" class="portfolio">
+    <h2>Skills</h2>
+    <h3>Data Analysis & Technical Tools</h3>
+    <ul>
+        <li><strong>Programming & Data Analysis:</strong> R (Posit), RStudio, SPSS</li>
+        <li><strong>Data Visualization:</strong> Power BI, ArcGIS, Excel (Power Query, PivotTables, advanced formulas)</li>
+        <li><strong>Epi/Public Health Tools:</strong> Epi Info, ESSENCE, WebSurv, Show Me World Care</li>
+    </ul>
+    <h3>Project Management & Communication</h3>
+    <ul>
+        <li>Lead complex projects and collaborate with cross-functional teams</li>
+        <li>Translate complex data into actionable insights for diverse audiences</li>
+    </ul>
+</section>
+<section id="experience" class="portfolio">
+    <h2>Experience</h2>
+    <h3>Epidemiologist | Data Analyst</h3>
+    <p><strong>St. Charles County Government – Public Health</strong><br>
+    January 2022 – Present</p>
+    <ul>
+        <li>Conduct in-depth analysis of county health metrics to forecast public health needs</li>
+        <li>Collaborate with field operations to enhance initiatives</li>
+        <li>Develop models to assess public health trends</li>
+    </ul>
+    <h3>Data Analyst | TBD Advocate</h3>
+    <p><strong>Tick-Borne Conditions United (Remote)</strong><br>
+    November 2023 – Present</p>
+    <ul>
+        <li>Analyze large datasets to identify tick-borne condition trends</li>
+        <li>Support federal/state legislation through data-driven advocacy</li>
+        <li>Present findings to lawmakers</li>
+    </ul>
+    <h3>Senior Public Health Program Specialist</h3>
+    <p><strong>Department of Health & Senior Services, Jefferson City, MO</strong><br>
+    August 2020 – August 2021</p>
+    <ul>
+        <li>Managed public health grants and budgets</li>
+        <li>Oversaw local public health agencies</li>
+        <li>Liaised with emergency agencies to enhance preparedness</li>
+    </ul>
+    <h3>Emergency Planner & Epidemiologist</h3>
+    <p><strong>Lincoln County Health Department, Troy, MO</strong><br>
+    January 2016 – August 2020</p>
+    <ul>
+        <li>Led COVID-19 response efforts</li>
+        <li>Visualized public health data for messaging</li>
+        <li>Implemented community health initiatives</li>
+    </ul>
+    <h3>Environmental Representative</h3>
+    <p><strong>St. Louis Department of Public Health</strong><br>
+    November 2014 – January 2016</p>
+    <ul>
+        <li>Conducted inspections and enforced health codes</li>
+        <li>Investigated foodborne illnesses and recommended policy changes</li>
+    </ul>
+</section>
 <section id="presentations" class="portfolio">
     <h2>Presentations</h2>
     <p>
@@ -86,9 +152,23 @@
             Conference agenda
         </a>
     </p>
+    <p>
+        <strong>2023 Bi-State Infectious Disease Conference</strong><br>
+        AGS 2024 Annual Research Report Card - October 2023
+    </p>
+    <p>
+        <strong>APIC Greater St. Louis Chapter Meeting</strong><br>
+        Alpha-Gal Syndrome Professional Training - January 2024
+    </p>
+    <p>
+        <strong>NACCHO Preparedness Summit</strong><br>
+        Peer-to-Peer Training to Support Medication Safety and Reduce Neonatal Abstinence Syndrome in Lincoln County, MO - March 2019
+    </p>
+    <p>
+        <strong>Lincoln County Opioid Summit for Community Providers</strong><br>
+        Lincoln County, MO Opioid Data - March 2019
+    </p>
 </section>
-
-
 <section id="portfolio" class="portfolio">
     <h2>Portfolio</h2>  
    <p>
@@ -119,7 +199,6 @@
         </a>
     </p>
 </section>
-
 </p>
         </section>
         <section id="contact" class="contact">
