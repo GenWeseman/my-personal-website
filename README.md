@@ -13,10 +13,15 @@
     }
    header {
     background-color: #014e4c;
-    color: #ffffff; /* bright white text */
+    color: #ffffff;
     padding: 20px;
     text-align: center;
     border-bottom: 4px solid #3e2723;
+}
+h1 {
+    font-family: 'Calibri', sans-serif;
+    color: #ffffff;
+    margin: 0;
 }
     nav {
         display: flex;
@@ -76,8 +81,8 @@ h1 {
 </head>
 <body>
     <header>
-        <h1>Gen Weseman</h1>
-    </header>
+    <h1>Gen Weseman</h1>
+</header>
     <nav>
     <a href="#about">About Me</a>
     <a href="#education">Education</a>
