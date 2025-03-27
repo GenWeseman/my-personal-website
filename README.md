@@ -1,4 +1,4 @@
-# my-personal-website
+# Gen Weseman Resume & Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,10 +72,38 @@
         <section id="about" class="about">
             <h2>About Me</h2>
             <p>Gen Weseman is a data analyst with a decade of experience leveraging statistical methods and data visualization tools (R, Power BI, GIS, Excel) to extract actionable insights. Skilled in identifying trends and translating complex data into strategic recommendations for public health and policy initiatives. She is passionate about educating individuals on emerging public health matters and advocates for tick-borne disease awareness and policy in her free time. She earned her MPH in Epidemiology & Biosecurity at St Louis University in 2014. Before she arrived at the St. Charles County Department of Public Health, Ms. Weseman served as the public health emergency preparedness program coordinator for the Missouri Department of Health and Senior Services and as an emergency planner and surveillance specialist for the Lincoln County Health Department.</p>
-        </section>
-        <section id="portfolio" class="portfolio">
-            <h2>Portfolio</h2>
-            <p>Here you can showcase your work, projects, and contributions. You can include images, links, and descriptions of your work here.</p>
+
+</section>
+<section id="presentations" class="presentations">
+    <h2>Presentations</h2>
+    <p>
+        <strong>2024 Bi-State Infectious Disease Conference</strong><br>
+        Alpha-gal and other research — November 2024<br>
+        <a href="https://community.apic.org/greaterstlouis/bistate/agenda" target="_blank">
+            https://community.apic.org/greaterstlouis/bistate/agenda
+        </a>
+    </p>
+</section>
+
+<section id="portfolio" class="portfolio">
+    <h2>Portfolio</h2>    
+    <p>
+        <strong>Where Chronic Disease, Data, and Disparity Collide</strong><br>
+        A Review of Chronic Disease in St. Charles County, MO — April 2022<br>
+        <a href="https://storymaps.arcgis.com/stories/18908ae528ce4cfc8fc61fa469631aed" target="_blank">
+            https://storymaps.arcgis.com/stories/18908ae528ce4cfc8fc61fa469631aed
+        </a>
+    </p>
+    <p>
+        <strong>Fighting the Battle on Opioids in Lincoln County, MO</strong><br>
+        May 2020<br>
+        <a href="https://storymaps.arcgis.com/stories/fa8f3dd7c8ab44fe8f1660b3ba84f2ef" target="_blank">
+            https://storymaps.arcgis.com/stories/fa8f3dd7c8ab44fe8f1660b3ba84f2ef
+        </a>
+    </p>
+</section>
+
+</p>
         </section>
         <section id="contact" class="contact">
             <h2>Contact</h2>
