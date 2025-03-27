@@ -13,7 +13,7 @@
     }
    header {
     background-color: #014e4c;
-    color: #ffffff; /* bright white for strong contrast */
+    color: #ffffff; /* bright white text */
     padding: 20px;
     text-align: center;
     border-bottom: 4px solid #3e2723;
@@ -272,13 +272,14 @@
             <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>         
-  <footer>
+  <footer style="background-color: #014e4c; color: #ffffff; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0;">
     <p>© 2025 Gen Weseman | St. Louis, MO</p>
     <p>
-        <a href="mailto:GenWeseman@gmail.com">Email</a> |
-        <a href="https://www.linkedin.com/in/genevieve-weseman-2868a980/" target="_blank">LinkedIn</a> |
-        <a href="https://github.com/GenWeseman" target="_blank">GitHub</a>
+        <a href="mailto:GenWeseman@gmail.com" style="color: #ffffff; text-decoration: underline;">Email</a> |
+        <a href="https://www.linkedin.com/in/genevieve-weseman-2868a980/" target="_blank" style="color: #ffffff; text-decoration: underline;">LinkedIn</a> |
+        <a href="https://github.com/GenWeseman" target="_blank" style="color: #ffffff; text-decoration: underline;">GitHub</a>
     </p>
 </footer>
+
 
 
