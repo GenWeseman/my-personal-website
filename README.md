@@ -284,7 +284,7 @@ h1 {
             <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
             <p>Phone: (636) 866-1078</p>         
- <footer style="background-color: #014e4c; text-align: center; padding: 10px; width: 100%;">
+<footer style="text-align: center; padding: 10px;">
     <p style="color: #000000;">© 2025 Gen Weseman | St. Louis, MO</p>
     <p>
         <a href="mailto:GenWeseman@gmail.com" style="color: #000000; text-decoration: underline;">Email</a> |
