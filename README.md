@@ -143,7 +143,7 @@
 <section id="presentations" class="portfolio">
     <h2>Presentations</h2>
     <p>
-        <strong>2024 Bi-State Infectious Disease Conference</strong><br>
+        <strong>Bi-State Infectious Disease Conference</strong><br>
         Alpha-gal and other research — November 2024<br>
         <a href="https://higherlogicdownload.s3.amazonaws.com/APIC/8e3ef514-80f1-403b-9f26-49e6233ef652/UploadedImages/Weseman_Alpha_Gal_2024.pdf" target="_blank">
             View PDF of presentation
@@ -153,12 +153,12 @@
         </a>
     </p>
     <p>
-        <strong>2023 Bi-State Infectious Disease Conference</strong><br>
-        AGS 2024 Annual Research Report Card - October 2023
-    </p>
-    <p>
         <strong>APIC Greater St. Louis Chapter Meeting</strong><br>
         Alpha-Gal Syndrome Professional Training - January 2024
+    </p>
+    <p>
+        <strong>2023 Bi-State Infectious Disease Conference</strong><br>
+        Alpha-Gal Syndrome - October 2023
     </p>
     <p>
         <strong>NACCHO Preparedness Summit</strong><br>
@@ -174,12 +174,60 @@
 </section>
 <section id="portfolio" class="portfolio">
     <h2>Portfolio</h2>  
+    <p>
+    <strong>Alpha-Gal Syndrome Patient Survey Analysis</strong><br>
+    Ongoing – Research Pending Publication<br>
+    Led cleaning, wrangling, and analysis of the largest patient-led Alpha-Gal Syndrome survey to date. Conducted exploratory and statistical analysis on variables including IgE distribution (initial and most recent), comorbidities, additional tick-borne diagnoses, provider type at diagnosis, symptom profiles, time to reactivity, reaction-triggering ingredients, and pre-diagnosis reaction frequency. Insights are contributing to an upcoming peer-reviewed publication.
+</p>
    <p>
     <strong>Alpha-Gal By The Numbers:</strong><br>
-    A Comparison of Lyme, AGS, and Other Tick-Borne Disease Cases from 2017–2021<br>
+    A Comparison of Lyme, AGS, and Other Tick-Borne Disease Cases from 2017–2021- March 2025<br>
     <a href="https://www.tbcunited.org/alpha-gal-by-the-numbers-a-comparison-of-lyme-ags-and-other-tick-borne-disease-cases-from-2017-2021/" target="_blank">
         View article on TBC United
     </a>
+</p>
+    <p>
+    <strong>EHR No-Show Appointment & Weather Data Analysis</strong><br>
+    August 2024<br>
+    Integrated EHR appointment data with NOAA climate datasets to analyze associations between no-show rates, precipitation, snowfall, distance to facility, and household patterns. Used MANOVA, ANOVA, and t-tests to identify statistically significant trends and inform strategies to improve attendance.
+</p>
+
+<p>
+    <strong>Epidemiological Analysis of Outbreaks</strong><br>
+    Ongoing<br>
+    Created iterative outbreak reports including epicurves, symptom and demographic breakdowns, and exposure analysis. Supported outbreak response teams with timely, actionable data visualizations and summaries.
+</p>
+
+<p>
+    <strong>Analysis of Animal Bites in St. Charles County, MO</strong><br>
+    February 2024<br>
+    Analyzed 5 years of EHR data to assess seasonality, geographic patterns, and demographics of animal bites. Applied chi-squared tests, Shapiro-Wilk, and visualizations (e.g., heat maps and contribution plots) to inform outreach and resource allocation.
+</p>
+
+<p>
+    <strong>Kratom Label Image Analysis Project</strong><br>
+    January 2024<br>
+    Used AWS Rekognition with a free-tier AWS account to develop a prototype for automated image recognition of product labels submitted by Kratom distributors to help streamline the public health label review process and reduce staff time.
+</p>
+<p>
+    <strong>Data Governance Policy Development</strong><br>
+    January 2024<br>
+    Drafted an organizational data governance policy as part of a cross-functional committee, establishing guidelines for data access, security, and management across systems.
+</p>
+<p>
+    <strong>Alpha-Gal Syndrome Patient Survey Analysis</strong><br>
+    December 2023<br>
+    Performed advanced analysis on patient-reported data using linear regression, ANOVA, Spearman’s correlation, and Kruskal-Wallis tests. Assessed relationships between IgE levels and symptom onset following mammalian exposure. (Pending publication.)
+</p>
+<p>
+    <strong>Internal LTCF COVID-19 Case Report</strong><br>
+    January 2023<br>
+    Automated dashboards using Power BI and R Studio to visualize 7-day moving averages, outbreak statistics, and case trends in long-term care facilities. Streamlined case tracking and improved situational awareness for public health leadership.
+</p>
+<p>
+    <strong>Internal COVID Analysis of EHR Data from ERAD</strong><br>
+    January 2023<br>
+    Connected to real-time EHR systems using R Studio, cleaning and analyzing over 100,000 COVID-19 cases. Enabled real-time epidemiological insight by wrangling complex datasets for immediate use by decision-makers.
 </p>
     <p>
         <strong>Where Chronic Disease, Data, and Disparity Collide</strong><br>
