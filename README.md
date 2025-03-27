@@ -11,13 +11,13 @@
         margin: 0;
         padding: 0;
     }
-    header {
-        background-color: #014e4c; /* Deep teal */
-        color: #3e2723; /* Earthy brown */
-        padding: 20px;
-        text-align: center;
-        border-bottom: 4px solid #3e2723;
-    }
+   header {
+    background-color: #014e4c;
+    color: #ffffff; /* bright white for strong contrast */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #3e2723;
+}
     nav {
         display: flex;
         justify-content: center;
@@ -270,9 +270,14 @@
             <h2>Contact</h2>
             <p>Contact me at:</p>
             <p>Email: GenWeseman@gmail.com</p>
-            <p>Phone: (636) 866-1078</p>
-            
-   © 2025 Gen Weseman | St. Louis, MO  
-[Email](mailto:GenWeseman@gmail.com) | [LinkedIn](https://www.linkedin.com/in/genevieve-weseman-2868a980/) | [GitHub](https://github.com/GenWeseman)
+            <p>Phone: (636) 866-1078</p>         
+  <footer>
+    <p>© 2025 Gen Weseman | St. Louis, MO</p>
+    <p>
+        <a href="mailto:GenWeseman@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/genevieve-weseman-2868a980/" target="_blank">LinkedIn</a> |
+        <a href="https://github.com/GenWeseman" target="_blank">GitHub</a>
+    </p>
+</footer>
 
 
