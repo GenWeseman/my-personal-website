@@ -5,59 +5,60 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gen Weseman</title>
-    <style>
-        body {
-            font-family: 'Times New Roman', serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #d8c292;
-            color: #3e2723;
-            padding: 20px;
-            text-align: center;
-            border-bottom: 4px solid #3e2723;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #f8e1b4;
-            border-bottom: 2px solid #3e2723;
-        }
-        nav a {
-            padding: 14px 20px;
-            display: block;
-            color: #3e2723;
-            text-decoration: none;
-            text-transform: uppercase;
-        }
-        nav a:hover {
-            background-color: #d8c292;
-        }
-        .container {
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            font-family: 'Goudy Old Style', serif;
-        }
-        .about, .portfolio, .contact {
-            margin: 20px 0;
-            padding: 20px;
-            background-color: #ffffff;
-            border: 2px solid #3e2723;
-            border-radius: 8px;
-        }
-        footer {
-            background-color: #d8c292;
-            color: #3e2723;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+   <style>
+    body {
+        font-family: 'Calibri', sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #d8c292;
+        color: #3e2723;
+        padding: 20px;
+        text-align: center;
+        border-bottom: 4px solid #3e2723;
+    }
+    nav {
+        display: flex;
+        justify-content: center;
+        background-color: #f8e1b4;
+        border-bottom: 2px solid #3e2723;
+    }
+    nav a {
+        padding: 14px 20px;
+        display: block;
+        color: #3e2723;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    nav a:hover {
+        background-color: #d8c292;
+    }
+    .container {
+        padding: 20px;
+    }
+    h1, h2, h3 {
+        font-family: 'Calibri', sans-serif;
+    }
+    .about, .portfolio, .contact {
+        margin: 20px 0;
+        padding: 20px;
+        background-color: #ffffff;
+        border: 2px solid #3e2723;
+        border-radius: 8px;
+    }
+    footer {
+        background-color: #d8c292;
+        color: #3e2723;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+</style>
+
 </head>
 <body>
     <header>
@@ -79,11 +80,15 @@
     <p>
         <strong>2024 Bi-State Infectious Disease Conference</strong><br>
         Alpha-gal and other research — November 2024<br>
+        <a href="https://higherlogicdownload.s3.amazonaws.com/APIC/8e3ef514-80f1-403b-9f26-49e6233ef652/UploadedImages/Weseman_Alpha_Gal_2024.pdf" target="_blank">
+            View PDF of presentation
+        </a><br>
         <a href="https://community.apic.org/greaterstlouis/bistate/agenda" target="_blank">
-            https://community.apic.org/greaterstlouis/bistate/agenda
+            Conference agenda
         </a>
     </p>
 </section>
+
 
 <section id="portfolio" class="portfolio">
     <h2>Portfolio</h2>    
