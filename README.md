@@ -39,9 +39,16 @@
         padding: 20px;
     }
     h1, h2, h3 {
-        font-family: 'Calibri', sans-serif;
-        color: #014e4c;
-    }
+    font-family: 'Calibri', sans-serif;
+}
+
+h2, h3 {
+    color: #014e4c;
+}
+
+h1 {
+    color: #ffffff; /* white text in header */
+}
     .about, .portfolio, .contact, .presentations, .education, .experience, .skills {
         margin: 20px 0;
         padding: 20px;
