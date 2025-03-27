@@ -165,9 +165,12 @@
         Peer-to-Peer Training to Support Medication Safety and Reduce Neonatal Abstinence Syndrome in Lincoln County, MO - March 2019
     </p>
     <p>
-        <strong>Lincoln County Opioid Summit for Community Providers</strong><br>
-        Lincoln County, MO Opioid Data - March 2019
-    </p>
+    <strong>Lincoln County Opioid Summit for Community Providers</strong><br>
+    March 2019<br>
+    <a href="Opioid%20Summit%20Data%20Presentation%20(1).pptx" target="_blank">
+        View Opioid Summit Data Presentation (PPTX)
+    </a>
+</p>
 </section>
 <section id="portfolio" class="portfolio">
     <h2>Portfolio</h2>  
