@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +12,8 @@
         padding: 0;
     }
     header {
-        background-color: #014e4c;
-        color: #3e2723;
+        background-color: #014e4c; /* Deep teal */
+        color: #3e2723; /* Earthy brown */
         padding: 20px;
         text-align: center;
         border-bottom: 4px solid #3e2723;
@@ -22,7 +21,7 @@
     nav {
         display: flex;
         justify-content: center;
-        background-color: #f8e1b4;
+        background-color: #f8e1b4; /* Light tan */
         border-bottom: 2px solid #3e2723;
     }
     nav a {
@@ -34,23 +33,32 @@
     }
     nav a:hover {
         background-color: #014e4c;
+        color: white;
     }
     .container {
         padding: 20px;
     }
     h1, h2, h3 {
         font-family: 'Calibri', sans-serif;
+        color: #014e4c;
     }
-    .about, .portfolio, .contact {
+    .about, .portfolio, .contact, .presentations, .education, .experience, .skills {
         margin: 20px 0;
         padding: 20px;
         background-color: #ffffff;
         border: 2px solid #3e2723;
         border-radius: 8px;
     }
+    a {
+        color: #014e4c;
+        text-decoration: underline;
+    }
+    a:hover {
+        color: #3e2723;
+    }
     footer {
         background-color: #014e4c;
-        color: #3e2723;
+        color: #ffffff;
         text-align: center;
         padding: 10px;
         position: fixed;
@@ -58,7 +66,6 @@
         bottom: 0;
     }
 </style>
-
 </head>
 <body>
     <header>
